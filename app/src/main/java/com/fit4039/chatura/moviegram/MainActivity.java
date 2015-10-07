@@ -33,6 +33,8 @@ import java.net.URL;
 import java.net.URLEncoder;
 import java.util.ArrayList;
 
+
+//new comment
 // this class sets up the navigation drawer and load appropriate movie list and pass it to fragment.
 public class MainActivity extends ActionBarActivity implements AsyncTaskListener {
     private DrawerLayout mDrawerLayout;

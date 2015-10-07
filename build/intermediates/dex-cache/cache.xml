@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/peercoreit/Documents/Projects/Moviegram/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/peercoreit/Documents/Projects/Moviegram/app/build/intermediates/pre-dexed/debug/classes-16b15a37acd6ee920acc6a3661b24aeccaad70a8.jar" />
+    </item>
+    <item
+        jar="/Users/peercoreit/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.2/d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27/picasso-2.3.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="/Users/peercoreit/Documents/Projects/Moviegram/app/build/intermediates/pre-dexed/debug/picasso-2.3.2-97b6829c0b00daa017fdd4ec5629396599d281d5.jar" />
+    </item>
+    <item
+        jar="/Users/peercoreit/Documents/Android/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/peercoreit/Documents/Projects/Moviegram/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-5f4e8f3ade204d4eb87f53493f358b71657c99a2.jar" />
+    </item>
+    <item
+        jar="/Users/peercoreit/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/peercoreit/Documents/Projects/Moviegram/app/build/intermediates/pre-dexed/debug/library-2.4.0-a044cefad8f5028b84b691998a848ac88cc3afbe.jar" />
+    </item>
+    <item
+        jar="/Users/peercoreit/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v2.1.0/ec46f9251e1e0ee60e1b6beae8b16f2e0fdee474/MPAndroidChart-v2.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ec46f9251e1e0ee60e1b6beae8b16f2e0fdee474">
+        <dex dex="/Users/peercoreit/Documents/Projects/Moviegram/app/build/intermediates/pre-dexed/debug/MPAndroidChart-v2.1.0-840a73fb5fb52c6e9c10b09ca8a67559bf84b911.jar" />
+    </item>
+    <item
+        jar="/Users/peercoreit/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.3/a85588bec3e2c4584d593d3f15df1677321bca72/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Users/peercoreit/Documents/Projects/Moviegram/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-79963b18128f9dbe1be44fbe7895668593a155ed.jar" />
+    </item>
+    <item
+        jar="/Users/peercoreit/Documents/Projects/Moviegram/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/peercoreit/Documents/Projects/Moviegram/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-e2834d663d4a37206c16254ee0a48b194adfb1d5.jar" />
+    </item>
+    <item
+        jar="/Users/peercoreit/Documents/Projects/Moviegram/app/build/intermediates/exploded-aar/com.daimajia.slider/library/1.1.2/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8aa807a27d3fde0de287ccb5cef2f302e180563f">
+        <dex dex="/Users/peercoreit/Documents/Projects/Moviegram/app/build/intermediates/pre-dexed/debug/classes-f9a942559c9f6d186037cc412c1d9261390e46d8.jar" />
+    </item>
+    <item
+        jar="/Users/peercoreit/Documents/Projects/Moviegram/app/build/intermediates/exploded-aar/com.daimajia.androidanimations/library/1.1.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="/Users/peercoreit/Documents/Projects/Moviegram/app/build/intermediates/pre-dexed/debug/classes-b86dc0e21a7eeea0a9d537b98221903492bb3f21.jar" />
+    </item>
+    <item
+        jar="/Users/peercoreit/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/peercoreit/Documents/Projects/Moviegram/app/build/intermediates/pre-dexed/debug/gson-2.3.1-12cc8e4ce9c2915168d0566f9c8572e488832944.jar" />
+    </item>
+    <item
+        jar="/Users/peercoreit/.gradle/caches/modules-2/files-2.1/io.realm/realm-android/0.80.1/af03a682e186ea0ed39e50da86fd9e6ddaaf2240/realm-android-0.80.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="af03a682e186ea0ed39e50da86fd9e6ddaaf2240">
+        <dex dex="/Users/peercoreit/Documents/Projects/Moviegram/app/build/intermediates/pre-dexed/debug/realm-android-0.80.1-30f95d5f73731312a5638e6406d4a7c1f8787517.jar" />
+    </item>
+    <item
+        jar="/Users/peercoreit/Documents/Projects/Moviegram/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/peercoreit/Documents/Projects/Moviegram/app/build/intermediates/pre-dexed/debug/classes-baddb21aa749fc348c4c219b893478c998c50f92.jar" />
+    </item>
+    <item
+        jar="/Users/peercoreit/Documents/Projects/Moviegram/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="78b8f6e37921559ed21c1fae1f30f9f713494db8">
+        <dex dex="/Users/peercoreit/Documents/Projects/Moviegram/app/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi-e65395a9668c0351b3380f5ee623ffb76182fd92.jar" />
+    </item>
+    <item
+        jar="/Users/peercoreit/Documents/Projects/Moviegram/app/build/intermediates/exploded-aar/com.daimajia.easing/library/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="/Users/peercoreit/Documents/Projects/Moviegram/app/build/intermediates/pre-dexed/debug/classes-94305346a3665ee1d2199b7d9bc649cd8a0cca12.jar" />
+    </item>
+
+</items>

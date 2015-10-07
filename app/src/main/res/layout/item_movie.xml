@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/selector_card_background">
+
+
+    <ImageView
+        android:layout_width="54dp"
+        android:layout_height="80dp"
+        android:id="@+id/ivItemMovieThumbnail"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_margin="5dp"
+        android:src="@drawable/sample"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Harry Potter"
+        android:id="@+id/tvItemMovieTitle"
+        android:layout_alignTop="@+id/ivItemMovieThumbnail"
+        android:layout_toRightOf="@+id/ivItemMovieThumbnail"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="-5dp"
+        android:singleLine="true"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="(2015)"
+        android:id="@+id/tvItemMovieYear"
+        android:layout_alignTop="@+id/tvItemMovieTitle"
+        android:layout_toRightOf="@+id/tvItemMovieTitle"
+        android:layout_toEndOf="@+id/tvItemMovieTitle"
+        android:layout_marginLeft="5dp"
+        android:singleLine="true"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="PG-13"
+        android:id="@+id/tvItemMovieRating"
+        android:layout_below="@+id/tvItemMovieTitle"
+        android:layout_alignLeft="@+id/tvItemMovieTitle"
+        android:layout_alignStart="@+id/tvItemMovieTitle"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="85/100"
+        android:id="@+id/tvItemMovieScore"
+        android:layout_below="@+id/tvItemMovieRating"
+        android:layout_alignLeft="@+id/tvItemMovieRating"
+        android:layout_alignStart="@+id/tvItemMovieRating"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Small Text"
+        android:id="@+id/tvItemMovieCast"
+        android:layout_below="@+id/tvItemMovieScore"
+        android:layout_alignLeft="@+id/tvItemMovieScore"
+        android:layout_alignStart="@+id/tvItemMovieScore"
+        android:singleLine="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="5dp"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ivRating"
+        android:src="@drawable/rating_1"
+        android:layout_below="@+id/tvItemMovieRating"
+        android:layout_toRightOf="@+id/tvItemMovieScore"
+        android:layout_toEndOf="@+id/tvItemMovieScore"
+        android:layout_marginTop="0dp"
+        android:layout_marginLeft="5dp"/>
+</RelativeLayout>

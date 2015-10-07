@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#23262b</color>
+    <color name="list_background_pressed">#15171b</color>
+    <color name="list_divider">#171b21</color>
+    
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="dark_green">#216173</color>
+    <color name="light_green">#389CBA</color>
+    <color name="red">#DD0B0B</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="pressed_color">#4df4e2</color>
+    <color name="product_default_color">#F0F0F0</color>
+    <color name="product_pressed_color">#acacac</color>
+
+</resources>
